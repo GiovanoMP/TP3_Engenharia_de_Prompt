@@ -2,3 +2,8 @@ python-dotenv
 jupyter
 notebook
 google-generativeai
+
+requests==2.31.0
+beautifulsoup4==4.12.2
+matplotlib==3.8.2
+pandas==2.1.4
